@@ -1,0 +1,28 @@
+[
+    {   
+        "TERMTYPECODE": "1",
+        "TERMTYPENAME": "新门禁前置系统",
+        "SYSCODE": "1",
+        "SYSNAME": "子系统1",
+        "TERMINTERVAL": "180",
+        "TERMOFFLINETIME": "600",
+        "ISHOST":"0",
+        "ISMONITORALLDAY": "1",
+        "MONITORSTARTTIME": "08:00",
+        "MONITORENDTIME": "18:00",
+        "MEMO": "备注"
+    },
+    {   
+        "TERMTYPECODE": "1",
+        "TERMTYPENAME": "新门禁前置系统",
+        "SYSCODE": "1",
+        "SYSNAME": "子系统1",
+        "TERMINTERVAL": "180",
+        "TERMOFFLINETIME": "600",
+        "ISHOST":"0",
+        "ISMONITORALLDAY": "0",
+        "MONITORSTARTTIME": "02:00",
+        "MONITORENDTIME": "15:00",
+        "MEMO": "备注"
+    }
+]

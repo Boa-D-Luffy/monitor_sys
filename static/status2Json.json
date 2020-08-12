@@ -1,0 +1,14 @@
+﻿{
+	"data_fuwu": [
+		{"RUNSTATUS":"4","EXCEPTIONDESC":"终端[综合前置机]网络正常,但没有向监控中心报告状态,可能发生异常;","TERMNO":"3","TERMNAME":"综合前置机","TERMPORT":"8000","TERMIP":"10.111.111.4","EXCEPTIONSTART":""},{"RUNSTATUS":"5","EXCEPTIONDESC":"终端[身份前置机]脱机,网络中断或发生异常;","TERMNO":"4","TERMNAME":"身份前置机","TERMPORT":"8500","TERMIP":"10.111.111.4","EXCEPTIONSTART":""}
+	],
+	"data_zixitong": [
+		{"RUNSTATUS":"4","EXCEPTIONDESC":"终端[综合前置机]网络正常,但没有向监控中心报告状态,可能发生异常;","TERMNO":"3","TERMNAME":"综合前置机","TERMPORT":"8000","TERMIP":"10.111.111.4","EXCEPTIONSTART":""},{"RUNSTATUS":"5","EXCEPTIONDESC":"终端[身份前置机]脱机,网络中断或发生异常;","TERMNO":"4","TERMNAME":"身份前置机","TERMPORT":"8500","TERMIP":"10.111.111.4","EXCEPTIONSTART":""}
+	],
+	"data_shebei": [
+		{"RUNSTATUS":"4","EXCEPTIONDESC":"终端[综合前置机]网络正常,但没有向监控中心报告状态,可能发生异常;","TERMNO":"3","TERMNAME":"综合前置机","TERMPORT":"8000","TERMIP":"10.111.111.4","EXCEPTIONSTART":""},{"RUNSTATUS":"5","EXCEPTIONDESC":"终端[身份前置机]脱机,网络中断或发生异常;","TERMNO":"4","TERMNAME":"身份前置机","TERMPORT":"8500","TERMIP":"10.111.111.4","EXCEPTIONSTART":""}
+	],
+	"data_qita": [
+		{"RUNSTATUS":"4","EXCEPTIONDESC":"终端[综合前置机]网络正常,但没有向监控中心报告状态,可能发生异常;","TERMNO":"3","TERMNAME":"综合前置机","TERMPORT":"8000","TERMIP":"10.111.111.4","EXCEPTIONSTART":""}
+	]
+}
